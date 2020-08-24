@@ -37,6 +37,6 @@
 			<bean class="mike.study.interceptor.LoginInterceptor"/>
 		</mvc:interceptor>
 	</mvc:interceptors>
-	
+	1
 	
 </beans>
